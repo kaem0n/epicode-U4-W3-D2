@@ -1,2 +1,5 @@
-package kaem0n.entities;public enum EventType {
+package kaem0n.entities;
+
+public enum EventType {
+    PUBLIC, PRIVATE
 }
